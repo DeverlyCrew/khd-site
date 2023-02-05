@@ -1,0 +1,20 @@
+.cards_box {
+  background-color: #203247;
+  padding: 20px;
+  border-radius: 15px;
+}
+.cards_image_box {
+  width: 75px;
+  height: 75px;
+  background-color: white;
+  border-radius: 100%;
+}
+.cards_image {
+  margin: 15%;
+}
+.cards_image svg {
+  fill: #203247;
+}
+.cards_text_width{
+    width: 80%;
+}
