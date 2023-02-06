@@ -2,6 +2,7 @@
   background-color: #203247;
   padding: 20px;
   border-radius: 15px;
+  margin-top: 200px;
 }
 .cards_image_box {
   width: 75px;
@@ -17,4 +18,17 @@
 }
 .cards_text_width{
     width: 80%;
+}
+.cards_title {
+  font-size: 3rem;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin: 10px 0px;
+}
+.cards_subtitle {
+  font-size: 1.5rem;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin: 10px 0px;
+  text-align: center;
 }

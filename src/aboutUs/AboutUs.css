@@ -1,6 +1,6 @@
 .about_us_wrapper {
     width: 100%;
-    margin-top: 300px;
+    margin-top: 100px;
 }
 .about_us{
     display: flex;
@@ -13,11 +13,14 @@
     align-items: center;
 }
 .about_us_text{
-    padding: 50px 100px 50px 50px;
+    padding: 50px;
     color: black;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
 }
+.about_us_text p{
+    text-align: justify;
+} 
 .about_us_image{
     width: 50%;
 }
