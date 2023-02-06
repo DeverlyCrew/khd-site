@@ -20,10 +20,10 @@ const Fotter = () => {
       <div className="fotter_card fotter_card_3">
         <h1>Linkovi</h1>
         <div className="fotter_card_3_social_media">
-          <a href="https://maliprogramer.ba/">Web stranica</a>
-          <a href="https://www.instagram.com/mali.programer/">Instagram</a>
-          <a href="https://www.linkedin.com/company/mali-programer/">LinkedIn</a>
-          <a href="https://www.facebook.com/maliprogramertravnik/">Facebook</a>
+          <a href="https://maliprogramer.ba/" target="_blank" rel="noreferrer">Web stranica</a>
+          <a href="https://www.instagram.com/mali.programer/" target="_blank" rel="noreferrer">Instagram</a>
+          <a href="https://www.linkedin.com/company/mali-programer/" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="https://www.facebook.com/maliprogramertravnik/" target="_blank" rel="noreferrer">Facebook</a>
         </div>
       </div>
     </div>
