@@ -2,7 +2,6 @@
   background-color: #203247;
   padding: 20px;
   border-radius: 15px;
-  margin-top: 200px;
 }
 .cards_image_box {
   width: 75px;
@@ -31,4 +30,7 @@
   font-family: "Roboto", sans-serif;
   margin: 10px 0px;
   text-align: center;
+}
+.cards_container {
+  margin-top: 200px;
 }

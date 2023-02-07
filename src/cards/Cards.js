@@ -3,7 +3,7 @@ import "./cards.css";
 const Cards = () => {
   return (
     <section>
-      <div className="container">
+      <div className="container cards_container">
         <div className="row">
           <div className="col-lg-4 mt-3 mt-lg-0">
             <div className="cards_box d-flex align-items-center flex-column text-light">

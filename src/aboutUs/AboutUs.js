@@ -36,7 +36,7 @@ const AboutUs = () => {
       <div className="about_us about_us_line_2">
         <div className="about_us_image">
           <img
-            src={require("./assets/aboutUsImage2.jpg")}
+            src={require("./assets/donate_img.png")}
             alt="about_us_line_2_image"
           />
         </div>
